@@ -127,7 +127,8 @@
     {
       "text": "Feral Play",
       "weight": 3,
-      "sensitivity": "E"
+      "sensitivity": "E",
+      "enabled": false
     },
     {
       "text": "Primal Play",
@@ -409,7 +410,8 @@
     {
       "text": "Consensual Somnophilia",
       "weight": 3,
-      "sensitivity": "E"
+      "sensitivity": "E",
+      "enabled": false
     },
     {
       "text": "Sleepy / Wake-up Sex",
@@ -417,7 +419,8 @@
       "sensitivity": "E"
     },
     {
-      "text": "Kidfic"
+      "text": "Kidfic",
+      "enabled": false
     },
     {
       "text": "Midfic"
@@ -439,7 +442,8 @@
     {
       "text": "Aphrodisiacs",
       "weight": 3,
-      "sensitivity": "E"
+      "sensitivity": "E",
+      "enabled": false
     },
     {
       "text": "Aphrodisiac",
@@ -498,7 +502,8 @@
       "sensitivity": "E"
     },
     {
-      "text": "AU or Cross-over"
+      "text": "AU or Cross-over",
+      "enabled": false
     },
     {
       "text": "AU or Crossover"
@@ -655,7 +660,8 @@
       "sensitivity": "E"
     },
     {
-      "text": "Forehead Kisses or Touch"
+      "text": "Forehead Kisses or Touch",
+      "enabled": false
     },
     {
       "text": "Forehead Kisses"
@@ -674,7 +680,8 @@
     {
       "text": "Phone Sex",
       "weight": 3,
-      "sensitivity": "E"
+      "sensitivity": "E",
+      "enabled": false
     },
     {
       "text": "Phone/Stolas Sex",
@@ -753,7 +760,8 @@
     {
       "text": "Degradation",
       "weight": 3,
-      "sensitivity": "E"
+      "sensitivity": "E",
+      "enabled": false
     },
     {
       "text": "Degrading",
@@ -866,7 +874,8 @@
       ]
     },
     {
-      "text": "Wedding or Bridal Carry"
+      "text": "Wedding or Bridal Carry",
+      "enabled": false
     },
     {
       "text": "Wedding"
@@ -893,7 +902,8 @@
       "sensitivity": "E"
     },
     {
-      "text": "Watching a Movie"
+      "text": "Watching a Movie",
+      "enabled": false
     },
     {
       "text": "Watching a Movie / Play"
@@ -936,7 +946,8 @@
     {
       "text": "Ears / Tail",
       "weight": 2,
-      "sensitivity": "Q"
+      "sensitivity": "Q",
+      "enabled": false
     },
     {
       "text": "Ears / Tail (Kemonomimi)",
@@ -947,6 +958,7 @@
       "text": "Priest or Nun",
       "weight": 3,
       "sensitivity": "Q",
+      "enabled": false,
       "flags": [
         "specific roleplay"
       ]
@@ -1211,6 +1223,7 @@
     },
     {
       "text": "Overwhelming Senses",
+      "enabled": false,
       "flags": [
         "omegaverse"
       ]
